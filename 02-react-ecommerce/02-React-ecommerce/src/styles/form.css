@@ -1,0 +1,61 @@
+
+.form-register {
+    max-width: 330px;
+    padding: 1rem;
+   }
+     
+   .form-register .form-floating:focus-within {
+    z-index: 2;
+    }
+
+    .form-register input[type="name"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+         }
+   
+    .form-register input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+     }
+     
+   .form-register input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+     }
+   
+   .btn-pink{
+       background-color: pink !important; 
+   }
+     
+
+   .form-singin{
+    max-width: 330px;
+    padding: 1rem;
+   }
+     
+   .form-singin:focus-within {
+    z-index: 2;
+    }
+
+    .form-singin input[type="name"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+         }
+   
+    .form-singin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+     }
+     
+   .form-singin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+     }
+   
+  
